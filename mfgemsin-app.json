@@ -2,11 +2,15 @@
     "product" : [
     "MFColorGems.RemoveiAd",
     "MFColorGems.Shuffle.1",
+    "MFColorGems.Shuffle.2",
     "MFColorGems.Shuffle.3",
+    "MFColorGems.Shuffle.4",
 ],
   "info" : [
   0,
   20,
+  30,
   50,
+  100,
   ]
 }
