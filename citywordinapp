@@ -1,0 +1,18 @@
+{
+    "product" : [
+    "CityWord.NoiAd"
+    "CityWord.Coin1",
+    "CityWord.Coin2",
+    "CityWord.Coin3",
+    "CityWord.Coin4",
+    "CityWord.Coin5",
+],
+  "info" : [
+  0,
+  300,
+  1400,
+  3100,
+  4150,
+  9999,
+  ]
+}
