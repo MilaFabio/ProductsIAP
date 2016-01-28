@@ -1,9 +1,20 @@
 {
-@"noReklama",
-@"MFSudoku.hint1",
-@"MFSudoku.hint5",
-@"MFSudoku.hint10",
-@"MFSudoku.solution1",
-@"MFSudoku.solution5",
-@"MFSudoku.solution100"
+    "product" : [
+"noReklama",
+"MFSudoku.hint1",
+"MFSudoku.hint5",
+"MFSudoku.hint10",
+"MFSudoku.solution1",
+"MFSudoku.solution5",
+"MFSudoku.solution100",
+],
+  "info" : [
+  0,
+  1,
+  5,
+  10,
+  1,
+  5,
+  100,
+  ]
 }
