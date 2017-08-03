@@ -8,5 +8,6 @@
   1,
   ],
    "saleApp" : 0,
-   "removeAdsDays" : 1
+   "removeAdsDays" : 2,
+   "showADcount" : 3 
 }
