@@ -7,7 +7,7 @@
   0,
   1,
   ],
-   "saleApp" : 0,
-   "removeAdsDays" : 2,
+   "saleApp" : 1,
+   "removeAdsDays" : 5,
    "showADcount" : 3 
 }
