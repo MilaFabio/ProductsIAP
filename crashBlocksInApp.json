@@ -1,10 +1,11 @@
 {
     "product" : [
-    "CrashBlocks.NoiAdFree",
-    "CrashBlocks.full_version",
-],
-  "info" : [
-  0,
-  1,
-  ]
+                 "CrashBlocks.NoiAdFree",
+                 "CrashBlocks.full_version",
+                 ],
+    "info" : [
+              0,
+              1,
+              ],
+    "showADcount" : 3
 }
